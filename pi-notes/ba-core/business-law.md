@@ -21,3 +21,6 @@ This is all pretty easy and self-explanatory. Consider the laws: usually they wi
 * Identify the basic torts relating to business enterprises 
 * Describe the nature of legally binding contracts 
 
+A **tort** is a civil wrong, that causes a claimant to suffer loss or harm, and results in legal libaility for whoever did it.
+The harm can be in the form of emotional distress, financial losses, and many other things.
+
