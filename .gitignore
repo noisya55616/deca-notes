@@ -1,2 +1,5 @@
 *.pdf
+
 *.html
+
+!pi-document.pdf
