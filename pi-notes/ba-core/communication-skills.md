@@ -11,6 +11,9 @@
 * Apply written directions to achieve tasks
 * Analyze company resources to ascertain policies and procedures
 
+This is all self-explanatory. No need to think too hard: remember to use these in the context of the case.
+You will usually be given any relevant materials and talking points inside of your case. You read fast, right? It'll all be fine.
+
 ### Performance Element: Apply active listening skills to demonstrate understanding of what is being said.
 
 #### Performance Indicators:
@@ -18,6 +21,8 @@
 * Explain communication techniques that support and encourage a speaker
 * Follow oral directions
 * Demonstrate active listening skills
+
+This is all self-explanatory too. It was a waste of time putting this in markdown.
 
 ### Performance Element: Apply verbal skills to obtain and convey information.
 
