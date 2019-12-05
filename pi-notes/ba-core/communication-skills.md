@@ -47,3 +47,5 @@ This is all self-explanatory too. It was a waste of time putting this in markdow
 * Utilize note-taking strategies
 * Organize information
 * Select and use appropriate graphic aids
+
+Literally all of this is self explanatory! 

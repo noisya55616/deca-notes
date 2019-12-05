@@ -1,42 +1,39 @@
-# Business Law (BL)
+# Instructional Area: Business Law (BL)
 
-## Standard: Undestand a business's responsibility to know, abide by, and enforce laws and regulations that affect it's operations and transactions
+## Standard: Understands business's responsibility to know, abide by, and enforce laws and regulations that affect business operations and transactions
 
-### Performance Element: Foundational knowledge of business laws and regulations to understand their nature and scope.
+### Performance Element: Acquire foundational knowledge of business laws and regulations to understand their nature and scope.
 
 #### Performance Indicators:
 
-* Comply with the spirit and intent of laws and regulations
-* Discuss the nature of law and sources of law in the United States 
-* Describe the United States' judicial system 
-* Describe methods used to protect intellectual property 
-* Describe legal issues affecting businesses 
-
-This is all pretty easy and self-explanatory. Consider the laws: usually they will mention anything relevant to the situation in your case. 
-
-For example:
-
-* Laws relating to minimum wage
-* Laws related to truthful messgaing in advertising
-
-If they give you these PI's, they will usually mention relevant laws and outline them, so no need to go full law school on them.
+* Comply with the spirit and intent of laws and regulations (BL:163) (CS)
+* Discuss the nature of law and sources of law in the United States (BL:067) (SP)
+* Describe the United States' judicial system (BL:068) (SP)
+* Describe methods used to protect intellectual property (BL:051) (SP)
+* Describe legal issues affecting businesses (BL:001) (SP)
 
 ### Performance Element: Understand the civil foundations of the legal environment of business to demonstrate knowledge of contracts.
 
 #### Performance Indicators:
 
-* Identify the basic torts relating to business enterprises 
-* Describe the nature of legally binding contracts 
+Identify the basic torts relating to business enterprises (BL:069) (SP)
+Describe the nature of legally binding contracts (BL:002) (SP)
 
-A ***tort*** is a civil wrong, that causes a claimant to suffer loss or harm, and results in legal libaility for whoever did it.
-The harm can be in the form of emotional distress, financial losses, and many other things. It usually isn't criminal.
+Performance Element: Explore the regulatory environment of United States' businesses to understand the diversity of regulations.
 
+Performance Indicators:
 
-*Business* torts are civil wrongs committed by or against an organization. It often involves harm done to a business's intangible assets, like intellectual property or client relationships. 
-
-There is also breach of fiduciary duty. A fiduciary is a party who is charged with acting in the best interest of another party. If a fiduciary acts in a way that damages the best interests of who or what is represents, then that is a tort. 
-
-For example, if a director of a company, who has a fiduciary duty to the shareholders of the company, starts a different company and steals a contract from the first company, that is a breach of fiduciary duty. 
-
-Businesses that commit a tort can be taken to court and be sued.
-
+Describe the nature of legal procedure (BL:070) (SP)
+Discuss the nature of debtor-creditor relationships (BL:071) (SP)
+Explain the nature of agency relationships (BL:072) (SP)
+Discuss the nature of environmental law (BL:073) (SP)
+Discuss the role of administrative law (BL:074) (SP)
+Performance Element: Apply knowledge of business ownership to establish and continue
+business operations.
+Performance Indicators:
+Explain types of business ownership (BL:003) (CS)
+Performance Element: Acquire knowledge of commerce laws and regulations to continue
+business operations.
+Performance Indicators:
+Explain the nature of import/export law (BL:145) (SP)
+Describe the nature of customs regulations (BL:126) (SP)
