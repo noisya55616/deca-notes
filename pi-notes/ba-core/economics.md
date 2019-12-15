@@ -8,11 +8,14 @@
 
 * Distinguish between economic goods and services (EC:002) (CS)
 
-*Goods are a physical item while services are activities of performing work for others.*
+Goods are a physical item while services are activities of performing work for others.
+
+Goods are tangible, can be patented and are easily compared, while servies are intangible, cannot be patented and cannot be easy compared.
 
 * Explain the concept of economic resources (EC:003) (CS)
 
-
+Economic resources are resources available to a company.
+This includes *capital*, like factories and equipment, *land*, which includes real estate and the natural resources on the land, *labour*, which is human resources, and *entrepreneurship*, which is skill involving risk-taking to set up enterprises.
 
 * Describe the concepts of economics and economic activities (EC:001) (CS)
 * Determine economic utilities created by business activities (EC:004) (CS)
@@ -87,3 +90,4 @@
 * Explain the impact of a country's economic development on world trade (EC:116) (SP)
 * Discuss the impact of bribery and foreign monetary payments on business (EC:140) (SP)
 * Identify requirements for international business travel (e.g., passport, visa, proof of citizenship, immunizations, and sponsorship letters) (EC:141) (SP)
+

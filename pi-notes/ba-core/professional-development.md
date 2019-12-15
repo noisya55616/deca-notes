@@ -69,3 +69,4 @@
 * Explain possible advancement patterns for jobs (PD:034) (PQ)
 * Identify skills needed to enhance career progression (PD:035) (SP)
 * Utilize resources that can contribute to professional development (e.g., trade journals/periodicals, professional/trade associations, classes/seminars, trade shows, and mentors) (PD:036) (SP)
+

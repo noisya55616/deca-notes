@@ -76,3 +76,4 @@
 * Discuss the importance of ethics in data mining (NF:150) (SP)
 * Demonstrate basic data mining techniques (NF:151) (SP)
 * Interpret data mining findings (NF:152) (SP)
+

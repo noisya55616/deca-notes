@@ -15,3 +15,4 @@
 
 * Explain the nature of risk management (SM:075) (SP)
 * Conduct a risk assessment of an event (SM:076) (SP)
+

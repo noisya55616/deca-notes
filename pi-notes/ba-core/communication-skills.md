@@ -11,7 +11,7 @@
 * Apply written directions to achieve tasks (CO:056) (PQ)
 * Analyze company resources to ascertain policies and procedures (CO:057) (CS)
 
-*God, I hope there are self-explanatory.*
+God, I hope there are self-explanatory.
 
 ### Performance Element: Apply active listening skills to demonstrate understanding of what is being said.
 
@@ -21,7 +21,7 @@
 * Follow oral directions (CO:119) (PQ)
 * Demonstrate active listening skills (CO:017) (PQ)
 
-*These too.*
+These too.
 
 ### Performance Element: Apply verbal skills to obtain and convey information.
 
@@ -39,7 +39,7 @@
 * Facilitate (lead) group discussions (CO:201) (SP)
 * Make oral presentations (CO:025) (SP)
 
-*Seriously?*
+Seriously?
 
 ### Performance Element: Record information to maintain and present a report of business activity.
 
@@ -49,7 +49,7 @@
 * Organize information (CO:086) (CS)
 * Select and use appropriate graphic aids (CO:087) (CS)
 
-*Not again.*
+Not again.
 
 ### Performance Element: Write internal and external business correspondence to convey and obtain information effectively.
 
@@ -69,7 +69,7 @@
 * Adapt written correspondence to targeted audiences (CO:203) (SP)
 * Use data visualization techniques (e.g., infographics, heat-maps, dynamic model outputs) (CO:204) (SP)
 
-*Now, this is actually useful. Listen up! Judges LOVE graphics. Make infographics. Make Gantt charts. Make 2x2 analyses. Make SWOT analyses. Make something new up! Give them something to look at.*
+Now, this is actually useful. Listen up! Judges LOVE graphics. Make infographics. Make Gantt charts. Make 2x2 analyses. Make SWOT analyses. Make something new up! Give them something to look at.
 
 ### Performance Element: Use social media to communicate with a business's stakeholders.
 
@@ -78,7 +78,7 @@
 * Describe the impact of a person's social media brand on the achievement of organizational objectives (CO:205) (CS)
 * Distinguish between using social media for business and personal purposes (CO:206) (CS)
 
-*When talking about social media, talk about specific influencers, and talk about platforms. Mention specifics: famous people on Twitter, Mastadon, Facebook, Periscope, anything.*
+When talking about social media, talk about specific influencers, and talk about platforms. Mention specifics: famous people on Twitter, Mastadon, Facebook, Periscope, anything.
 
 ### Performance Element: Communicate with staff to clarify workplace objectives.
 
@@ -89,4 +89,5 @@
 * Participate in a staff meeting (CO:063) (CS)
 * Participate in problem-solving groups (CO:067) (CS)
 
-*Just read. Good lord.*
+Just read. Good lord.
+

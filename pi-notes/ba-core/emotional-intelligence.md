@@ -124,3 +124,4 @@
 * Explain the impact of political relationships within an organization (EI:034) (SP)
 * Explain the nature of organizational culture (EI:064) (SP)
 * Interpret and adapt to a business's culture (EI:112) (SP)
+

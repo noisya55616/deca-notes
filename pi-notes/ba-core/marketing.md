@@ -16,3 +16,4 @@
 * Explain factors that influence customer/client/business buying behavior (MK:014) (SP)
 * Discuss actions employees can take to achieve the company's desired results (MK:015) (SP)
 * Demonstrate connections between company actions and results (e.g., influencing consumer buying behavior, gaining market share, etc.) (MK:019) (SP)
+

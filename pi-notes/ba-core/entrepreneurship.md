@@ -10,3 +10,4 @@
 * Explain the role requirements of entrepreneurs and owners (EN:040) (SP)
 * Describe the use of business ethics in entrepreneurship (EN:044) (SP)
 * Describe small-business opportunities in international trade (EN:041) (SP)
+
