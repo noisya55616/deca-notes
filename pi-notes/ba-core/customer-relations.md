@@ -66,6 +66,14 @@ This will depend on the context of the case, but it's about what it sounds like.
 #### Performance Indicators:
 
 * Discuss the nature of customer relationship management (CR:016) (SP)
+
+Customer relationship management is the approad a company takes in it's interaction with current and potential customers.
+
 * Explain the role of ethics in customer relationship management (CR:017) (SP)
+
+Ethics improves quality of service and fosters positive relationships.
+
 * Describe the use of technology in customer relationship management (CR:018) (SP)
+
+Just think. Stuff like data analysis about customer history, satisfaction, etc.
 

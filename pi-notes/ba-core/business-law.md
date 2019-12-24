@@ -15,22 +15,38 @@ In these cases they are likely to tell you outright about any laws or regulation
 * Describe methods used to protect intellectual property (BL:051) (SP)
 * Describe legal issues affecting businesses (BL:001) (SP)
 
+These PI's above are more likely to show up in MC than roleplay. Many are pretty self explanatory, you know this stuff.
+
 ### Performance Element: Understand the civil foundations of the legal environment of business to demonstrate knowledge of contracts.
 
 #### Performance Indicators:
 
 * Identify the basic torts relating to business enterprises (BL:069) (SP)
+
+Torts are civil wrongs committed against a person or business, and business torts are wrongful actions that result in loss to the business.
+This can be loss of profits, reputation, market share, or many other things.
+
 * Describe the nature of legally binding contracts (BL:002) (SP)
 
 ### Performance Element: Explore the regulatory environment of United States' businesses to understand the diversity of regulations.
 
 #### Performance Indicators:
 
+These are MC PI's.
+
 * Describe the nature of legal procedure (BL:070) (SP)
 * Discuss the nature of debtor-creditor relationships (BL:071) (SP)
+
+In a debtor=creditor relationship the debtor can be compelled to furnish the creditor with services, goods or money.
+
 * Explain the nature of agency relationships (BL:072) (SP)
 * Discuss the nature of environmental law (BL:073) (SP)
+
+The nature of environmental law is that it intends to pretect and improve the natural environment.
+
 * Discuss the role of administrative law (BL:074) (SP)
+
+Administrative law is law that oversees the internal operations of government agencies.
 
 ### Performance Element: Apply knowledge of business ownership to establish and continue business operations.
 

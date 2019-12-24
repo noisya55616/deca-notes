@@ -2,6 +2,8 @@
 
 ## Standard: Understands the concepts, strategies, and systems used to obtain and convey ideas and information
 
+Basically all of these PI's are only going to appear on MC. Just read them and use that information to answer the MC question.
+
 ### Performance Element: Read to acquire meaning from written material and to apply the information to a task.
 
 #### Performance Indicators:

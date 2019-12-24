@@ -81,21 +81,34 @@ There are 3 types of business activities.
 There are 4 main types of economic systems.
 ***Traditional*** economic systems are based on tradition and already existing systems, as well as cultural values and customs.
 There is often a large reliance on barter, and there is usually little centralized government control.
-This is usually in rural communities or less economically developed countries: think rural Africa or Asia, that type of area,
+This is usually in rural communities or less economically developed countries: think rural Africa or Asia, that type of area.
+
 ***Command*** economic systems are completely controlled by a central government.
 The government controls and determines prices, goods produced and what is sold.
-This usually occurs in Communist regimes: Nortk Korea, former Soviet Union, mid-1900's China.
+This usually occurs in Communist regimes: North Korea, former Soviet Union, mid-1900's China.
+
 ***Market*** economic systems have very little government control, and the condition of the market is determined completely by the individuals and businesses within it.
 This usually attempts to stop the government from having massive power over the economy, or in general.
 Think America.
+
 ***Mixed*** economic systems are in place in most economically developed countries like Canada, and are a combination of Command and Market systems.
 Individuals control the market, but the government still regulates the economy in some way.
 
 * Identify the impact of small business/entrepreneurship on market economies (EC:065) (CS)
 
+They bring growth and innovation to local economies where thye are established.
+They also stimulate the economy by providing employment to people who are not employed/unemployable by larger corporations.
+
 * Explain the concept of private enterprise (EC:009) (CS)
 
+It's a business or industry that is managed by independen companies or people rather than the state.
+
 * Identify factors affecting a business's profit (EC:010) (CS)
+
+There are a few main ones:
+***Number of production units, productivity per unit, direct costs, value per unit, enterprise mix, and overhead costs.***
+
+But there are many other to consider, jsut think.
 
 * Determine factors affecting business risk (EC:011) (CS)
 
@@ -130,6 +143,8 @@ This one is always going to be very case specific.
 
 #### Performance Indicators:
 
+This is all self-explanatory MC stuff.
+
 * Explain the concept of productivity (EC:013) (CS)
 * Analyze impact of specialization/division of labor on productivity (EC:014) (SP)
 * Explain the concept of organized labor and business (EC:015) (SP)
@@ -138,6 +153,8 @@ This one is always going to be very case specific.
 ### Performance Element: Understand economic indicators to recognize economic trends and conditions.
 
 #### Performance Indicators:
+
+This is all self-explanatory MC stuff.
 
 * Discuss the measure of consumer spending as an economic indicator (EC:081) (SP)
 * Describe the economic impact of inflation on business (EC:083) (SP)
