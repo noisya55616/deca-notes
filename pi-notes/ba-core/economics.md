@@ -28,11 +28,11 @@ This includes: ***buying, manufacturing, selling, investing, transporting***.
 Economic utilites are attributes of a product or service that can satisfy a customer.
 The economic utilities are form, information, time, place and possession.
 
-Form utility is the conversion of raw materials into useful product for the customer. 
-Information utility is the communication process where customers are informed about the business's products.
-Time utility is providing the customer's want at the time of the desire of the consumer.
-Place utility is providing convenient access to products.
-Possession utility is transferring ownership of an item to the customer.
+**Form** utility is the conversion of raw materials into useful product for the customer. 
+**Information** utility is the communication process where customers are informed about the business's products.
+**Time** utility is providing the customer's want at the time of the desire of the consumer.
+**Place** utility is providing convenient access to products.
+**Possession** utility is transferring ownership of an item to the customer.
 
 * Explain the principles of supply and demand (EC:005) (CS)
 
