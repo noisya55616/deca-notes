@@ -2,6 +2,8 @@
 
 ## Standard: Understands techniques, strategies, and systems used to foster selfunderstanding and enhance relationships with others
 
+Again, this is all stuff for MC's, for the most part. Don't worry about applying most of these in roleplay.
+
 ### Performance Element: Foster self-understanding to recognize the impact of personal feelings on others.
 
 #### Performance Indicators:

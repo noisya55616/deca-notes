@@ -49,3 +49,4 @@
 * Describe factors used by marketers to position products/services (PM:042) (SP)
 * Explain the nature of product/service branding (PM:021) (SP)
 * Describe the role of customer voice in branding (PM:276) (SP)
+

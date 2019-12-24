@@ -2,6 +2,8 @@
 
 ## Standard: Understands the techniques and strategies used to foster positive, ongoing relationships with customers
 
+Most of these are for MC's: however, some of them do end up in roleplays.
+
 ### Performance Element: Foster positive relationships with customers to enhance company image.
 
 #### Performance Indicators:
@@ -45,7 +47,7 @@ This one should be pretty self explanatory when you see it, take it in the conte
 * Handle difficult customers (CR:009) (CS)
 * Handle customer/client complaints (CR:010) (CS)
 
-These should be self-explanatory in the context of your case. Take context into account for everything, tie it in to your specific case for the points. Don't think too hard on it.
+These should be self-explanatory in the context of your case or question. Remember respect.
 
 ### Performance Element: Reinforce company's image to exhibit the company's brand promise.
 

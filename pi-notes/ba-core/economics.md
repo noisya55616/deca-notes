@@ -2,6 +2,8 @@
 
 ## Standard: Understands the economic principles and concepts fundamental to business operations
 
+These PI's are mostly found in MC.
+
 ### Performance Element: Understand fundamental economic concepts to obtain a foundation for employment in business.
 
 #### Performance Indicators:
