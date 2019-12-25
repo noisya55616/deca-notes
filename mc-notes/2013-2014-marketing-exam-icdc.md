@@ -68,6 +68,8 @@ A limited guarantee is a written undertaking to fulfill a specific obligation. O
 * C. Range
 * D. Scope
 
+This is just a mistake, no need to delve deep into it.
+
 27. While filling out a customer-satisfaction survey, Ashley is asked to rank her level of agreement with the statement, "The sales representative was friendly and courteous." Out of the five options presented, Ashley's response is "strongly agree." This is an example of a _________ rating scale.
 
 * **A. Likert**
