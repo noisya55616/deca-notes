@@ -77,12 +77,18 @@ This is just a mistake, no need to delve deep into it.
 * C. Paired comparison
 * D. Retention
 
+Likert scales are rating scales that usually have 5-7 balanced responses, along with a neutral one.
+
+For example: Strongly Agree, Agree, Neutral, Disagree, Strongly Disagree
+
 32. When a government regulatory agency accuses a company of running a deceptive advertisement, the company voluntarily agrees to stop running the ad without admitting guilt. In this situation, the remedy used is
 
 * *A. a cease-and-desist order.*
 * **B. a consent order.**
 * C. corrective advertising.
 * D. affirmative disclosure.
+
+A consent order or consent decree is an agreement/settlement that resolves a dispute between 2 parties without admission of guilt or liability (in criminal and civil cases respectively).
 
 37. What component of a print advertisement contains the sales message?
 
@@ -91,6 +97,8 @@ This is just a mistake, no need to delve deep into it.
 * C. Tag line
 * *D. Headline*
 
+You start with a headline that grabs attention, then go to copy that communicates in a clear and concise way a message.
+
 46. The Upper Crust Bread Shop bakes its bread on site so that customers can smell the bread when they enter the shop, and it sets baskets of bread samples throughout the shop. The shop uses these touch points to carry out its
 
 * A. operations-management processes.
@@ -98,12 +106,18 @@ This is just a mistake, no need to delve deep into it.
 * C. **customer-experience management strategies.**
 * D. *brand-insistence advertising techniques.*
 
+I guess this is kind of self explanatory. 
+They are managing the experience of customers in the shop. it's not really advertisement.
+
 * 49. Which of the following is an example of a business that uses product class as a positioning strategy:
 
 * A. Focusing on the value of a line of cosmetics
 * B. Emphasizing a 100,000-mile car warranty
-* ** C. Associating an artificial sweetener with sugar**
+* **C. Associating an artificial sweetener with sugar**
 * *D. Communicating a resort's luxury services*
+
+It's an artificial sweetener that is just as good as "the real stuff". 
+Their sweetener is in a class of it's own, better than sugar in the health but still just as sweet.
 
 55. An interviewer should carefully monitor his/her tone of voice, facial expressions, and gestures when collecting marketing data from respondents to
 
@@ -112,12 +126,17 @@ This is just a mistake, no need to delve deep into it.
 * *C. discourage inappropriate responses.*
 * D. dominate the conversation.
 
+Bias is the most important thing in data collection.
+Inappropriate responses can more easily be filtered out.
+
 64. When identifying risks that a business faces, management should focus on the
    
 * *A. probability of risk occurrence.*
 * B. impact of the risks.
 * **C. sources of the risks.**
 * D. ability to transfer the risks.
+
+The places that risk comes from are castly more important than how likely they are to occur, because if you know the source you can deal with the risk.
 
 70. A business can help its salespeople build a clientele by
 
@@ -126,12 +145,16 @@ This is just a mistake, no need to delve deep into it.
 * **C. having favorable adjustment and return policies.**
 * D. setting high performance goals.
 
+A and B are things that the saleperson has to do, D is irrelevant, and C makes the most sense: it's something that keeps customers coming and is the responsibility of the business.
+
 82. Mason Publishing included the following statement in a newsletter that was sent to its sales staff about its new electronic reader: CEO Lucinda Marcelli said, "This product supports our ongoing efforts to revolutionize the ways in which students across the country learn." This is an example of
 
 * *A. paraphrasing a comment to explain specific product benefits.*
 * B. including a quotation to introduce an item during a sales meeting.
 * **C. using a quotation to communicate product information.**
 * D. summarizing the features of a new item by using a testimonial.
+
+This kind of makes sense. It's a quotation, so the stuff after doesn't really matter.
 
 84. Which of the following is an ethical issue that affects many businesses' product/service-management function:
 
@@ -140,13 +163,15 @@ This is just a mistake, no need to delve deep into it.
 * **C. Testing on animals**
 * D. Setting unrealistic sales goals
 
-Engaging in collusion is more of a legal conscern I guess, in that it's outright illegal, while animal testing is legal but potentially an ethical issue.
+Engaging in collusion is more of a legal concern I guess, in that it's outright illegal, while animal testing is legal but potentially an ethical issue.
 
 87. The best way for salespeople to obtain detailed information about a complex product is by
 
 * A. asking a customer who uses the product.
-* B. reading a product brochure.
+* *B. reading a product brochure.*
 * **C. attending a training session.**
 * D. conducting a product demonstration.
+
+The way to get the most thorough information about the product is in person at a training session I guess.
 
 
