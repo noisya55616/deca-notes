@@ -6,5 +6,9 @@
 
 - [ ] Potentially interview protocol
 
-- [ ] Response scale systems (Likert, etc.)
+- [ ] Survey response/rating scale systems (Likert, etc.)
+
+- [ ] Promotional strategies
+
+- [ ] Advertising mediums
 
