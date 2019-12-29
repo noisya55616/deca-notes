@@ -64,23 +64,57 @@
 
 * Describe the concept of insurance (FI:081) (CS)
 
+Insurance is a contract, represented by a policy, through which an individual or business receives financial protection against loss from the insurance company.
+It transfers risk from you to an insurance company for a fee.
+
 ### Performance Element: Acquire a foundational knowledge of accounting to understand its nature and scope.
 
 #### Performance Indicators:
 
 * Describe the need for financial information (FI:579) (CS)
+
+Financial information allows businesses to make decisions on how to allocate financial resources within the business.
+
 * Explain the concept of accounting (FI:085) (CS)
+
+Accounting is the process of recording financial transactions pertaining to a business. 
+It includes gathering, summarizing, analyzing and reporting these transactions.
+
 * Discuss the role of ethics in accounting (FI:351) (SP)
+
+Ethics plays an important role in all business operations.
+Things like integrity, confidentiality, professional competence and behaviour, all play large roles in accounting.
+
 * Explain the use of technology in accounting (FI:352) (SP)
+
+New technologies advance accounting.
+POS systems can automatically record transactions, computer systems can analyze and sort information, and EDI can allow businesses to send and report findings and records.
+
 * Explain legal considerations for accounting (FI:353) (SP)
+
+Accounting has many legal considerations.
+For example, regulations and laws may mandate accounting techniques and formats that should be used, types or amounts of transactions that must be reported, and many other factors in accounting.
 
 ### Performance Element: Implement accounting procedures to track money flow and to determine financial status.
 
 #### Performance Indicators:
 
 * Describe the nature of cash flow statements (FI:091) (SP)
+
+Cash flow statements state cash flow over a period of time.
+All cash flow is represented in them.
+Cash flow from making sales, cash out from capital expenditure, etc.
+
 * Explain the nature of balance sheets (FI:093) (SP)
+
+The balance sheet is a financial statement that reports a companies assets, liabilities and shareholder' equity.
+
+Assets = Liabilities + Shareholders' Equity
+
 * Describe the nature of income statements (FI:094) (SP)
+
+The income statement shows profit and loss of a business over a period of time.
+You determine proit or loss by taing revenue and subtracting all expenses.
 
 ### Performance Element: Acquire a foundational knowledge of finance to understand its nature and scope.
 

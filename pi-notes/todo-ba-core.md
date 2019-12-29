@@ -8,7 +8,7 @@
 
 - [x] Economics
 
-- [ ] Emotional intelligence
+- [x] Emotional intelligence
 
 - [ ] Entrepreneurship
 
