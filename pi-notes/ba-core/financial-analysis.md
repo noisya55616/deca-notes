@@ -121,12 +121,24 @@ You determine proit or loss by taing revenue and subtracting all expenses.
 #### Performance Indicators:
 
 * Explain the role of finance in business (FI:354) (CS)
+
+Finance is the function in business responsible for acquiring and managing funds in the firm and planning for spending.
+It acquires and allocates funding in the business for other operations and endeavours.
+
 * Discuss the role of ethics in finance (FI:355) (SP)
+
+Mostly this is stuff like confidentiality. Think in context.
+
 * Explain legal considerations for finance (FI:356) (SP)
+
+think about stuff like insider information and insider trading.
 
 ### Performance Element: Manage financial resources to ensure solvency.
 
 #### Performance Indicators:
 
 * Describe the nature of budgets (FI:106) (SP)
+
+The budget should be integrated with the corporate plan.
+The budget defines targets in concrete, quantitative terms, and assigns funds to them, as well as provides guidelines.
 

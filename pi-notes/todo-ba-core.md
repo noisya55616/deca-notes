@@ -10,9 +10,9 @@
 
 - [x] Emotional intelligence
 
-- [ ] Entrepreneurship
+- [x] Entrepreneurship
 
-- [ ] Financial analysis
+- [x] Financial analysis
 
 - [ ] Human resources management
 
