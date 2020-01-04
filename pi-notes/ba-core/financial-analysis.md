@@ -6,6 +6,8 @@
 
 #### Performance Indicators:
 
+All MC stuff.
+
 * Explain forms of financial exchange (cash, credit, debit, electronic funds transfer, etc.) (FI:058) (PQ)
 * Identify types of currency (paper money, coins, banknotes, government bonds, treasury notes, etc.) (FI:059) (PQ)
 * Describe functions of money (medium of exchange, unit of measure, store of value) (FI:060) (PQ)
@@ -18,6 +20,8 @@
 
 #### Performance Indicators:
 
+All MC stuff.
+
 * Explain the nature of financial needs (e.g., college, retirement, wills, insurance, etc.) (FI:064) (CS)
 * Explain the need to save and invest (FI:270) (CS)
 * Set financial goals (FI:065) (CS)
@@ -27,6 +31,8 @@
 ### Performance Element: Manage personal finances to achieve financial goals.
 
 #### Performance Indicators:
+
+All MC stuff.
 
 * Explain the nature of tax liabilities (FI:067) (PQ)
 * Interpret a pay stub (FI:068) (PQ)
@@ -49,12 +55,16 @@
 
 #### Performance Indicators:
 
+All MC stuff.
+
 * Describe types of financial-services providers (FI:075) (CS)
 * Discuss considerations in selecting a financial-services provider (FI:076) (CS)
 
 ### Performance Element: Use investment strategies to ensure financial well-being.
 
 #### Performance Indicators:
+
+MC stuff.
 
 * Explain types of investments (FI:077) (CS)
 
