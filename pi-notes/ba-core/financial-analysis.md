@@ -141,7 +141,7 @@ Mostly this is stuff like confidentiality. Think in context.
 
 * Explain legal considerations for finance (FI:356) (SP)
 
-think about stuff like insider information and insider trading.
+Think about stuff like insider information and insider trading.
 
 ### Performance Element: Manage financial resources to ensure solvency.
 
