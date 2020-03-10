@@ -14,7 +14,7 @@
 
 - [x] Financial analysis
 
-- [ ] Human resources management
+- [x] Human resources management
 
 - [ ] Information management
 
